@@ -52,7 +52,7 @@ def infer_image(image_path):
 
 if __name__ == "__main__":
     # Example usage
-    # image_path = "F:/projects/PiD_AIGID/images/real_1.jpg"  # Replace with the actual image path
+    image_path = "C:/Users/Lenovo/Documents/DIP_AIGID/images/real_1.jpg"  # Replace with the actual image path
     # image_path = "F:/projects/PiD_AIGID/images/real_2.jpg"  # Replace with the actual image path
     # image_path = "F:/projects/PiD_AIGID/images/real_3.jpg"  # Replace with the actual image path
     # image_path = "F:/projects/PiD_AIGID/images/fake_1.png"  # Replace with the actual image path
